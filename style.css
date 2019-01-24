@@ -1,1 +1,17 @@
 
+body{background-color:green;
+color:red;
+}
+h1{
+text-align:center;
+background-color:red !important;
+}
+.backcolor{
+color:blue;
+}
+#tableheader{
+background-color: red;
+font-weight: bold;
+font-style: italic;
+color:green;
+}
